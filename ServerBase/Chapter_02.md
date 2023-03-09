@@ -18,5 +18,15 @@
 프레임 체크 시퀀스 : CRC32  
 
 3. Network Layer( 네트워크 계층)
+- IP주소를 사용한다.  
 
-### IP 주소 및 패킷 주
+### IP 주소 및 패킷 주소
+![100504_cisco_figure_3_12b](https://user-images.githubusercontent.com/80669633/223909398-a970f426-f29e-43dc-a7e4-ba14256b9fdc.gif)
+
+identifier : IP 패킷 식별한다.
+flag : 패킷 분할 여부 정보를 제공한다.
+fragment offset :  재조립시 필요한, 기존 위치 정보를 제공한다.
+
+#### 직접라우팅  
+MAC주소 / 
+* ARP : MAC 주소 결정 프로토콜  
