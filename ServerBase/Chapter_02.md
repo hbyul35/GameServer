@@ -28,5 +28,5 @@ flag : 패킷 분할 여부 정보를 제공한다.
 fragment offset :  재조립시 필요한, 기존 위치 정보를 제공한다.
 
 #### 직접라우팅  
-MAC주소 / 
 * ARP : MAC 주소 결정 프로토콜  
+* ![2279CC4552B2CDEE25](https://user-images.githubusercontent.com/80669633/223911319-05982a88-461d-44f9-8d3c-cd8e0603d2cb.jpg)
